@@ -4,9 +4,7 @@ This Project is a modification from [WesBos Javascript 30](https://courses.wesbo
 
 ## Objective
 
-By End of this project, you should understand:
-
-# Objectives
+By End of this project, I should understand:
 
 **JavaScript Basics**
 
@@ -32,9 +30,3 @@ By End of this project, you should understand:
 
 A musical instrument that can be played using the computer’s keyboard. As a note is selected the user should see a visible indication that the key and note was played
 
-## Instructions
-
-1. Create an account for WesBro course. (It’s free !)
-2. Download the started code for the drum kit here
-3. Rewatch the drum kit video at your own pace and complete `index-START.html`
-4. Create a new instrument using the mp3 files found in the sound directory from, have fun, mix different sound or create a traditional sounding instrument
